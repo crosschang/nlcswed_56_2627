@@ -1,6 +1,6 @@
 {
     "name": "nlcswed_56_2627",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
