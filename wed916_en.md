@@ -1,7 +1,7 @@
 # Minecraft Education Command + MakeCode Block Coding Lesson  
 ## Controlling an Armor Stand with Numbers
 
-## Today’s Lesson Goal
+## Today's Lesson Goal
 
 Today, we will learn how commands work in Minecraft Education,  
 and then use **MakeCode blocks** to create a program that moves an armor stand.
